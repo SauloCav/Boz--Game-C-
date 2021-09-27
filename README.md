@@ -1,2 +1,3 @@
-# Bozo-Game-in-C
-Implementação do jogo clássico "Bozó" em C++
+# Games-in-C
+
+Alguns jogos implementados em C++
