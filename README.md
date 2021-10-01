@@ -1,3 +1,3 @@
 # Games-in-C
 
-Alguns jogos implementados em C++
+Some games developed in C++
